@@ -45,3 +45,6 @@ sh/
 sdk.config.json
 # ignore local config
 server/config.local.js
+# by.shawn
+.idea
+package-lock.json

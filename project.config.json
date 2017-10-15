@@ -1,4 +1,6 @@
 {
-  "client": "./client",
-  "svr": "./server"
+	"client": "./client",
+	"svr": "./server",
+	"appid": "wxeb5ae21053ad48e4",
+	"projectname": "wafer2-startup"
 }
